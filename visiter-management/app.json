@@ -8,6 +8,15 @@
       "expo-router"
     ],
     "name": "visiter-management",
-    "slug": "visiter-management"
+    "slug": "visiter-management",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3782eeb1-be59-4884-aeeb-e02e1e94a2c8"
+      }
+    },
+    "owner": "shree766"
   }
 }
